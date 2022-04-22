@@ -1,7 +1,7 @@
 <h1 align='center'>Hey there, I'm Khamrayev <img src="https://github.com/khamrayev/this/raw/main/waving-hand.gif" width="25"></h1>
 <hr>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/seu-usuario">
     <img
       align="center"
